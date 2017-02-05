@@ -11,7 +11,7 @@ During an internship program, two of my co-workers attempted to play a prank on 
 As obtained from the definition from Wikipedia:
 >In computing, a fork bomb (also called rabbit virus or wabbit[1]) is a denial-of-service attack wherein a process continually replicates itself to deplete available system resources, slowing down or crashing the system due to resource starvation.
 
-*Link to [Fork Bomb Wikipedia] page(https://en.wikipedia.org/wiki/Fork_bomb)*
+*Link to [Fork Bomb Wikipedia](https://en.wikipedia.org/wiki/Fork_bomb) page*
 
 ## What is the command to execute the Fork Bomb?
 Here is the command as follows:

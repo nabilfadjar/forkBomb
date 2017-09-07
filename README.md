@@ -18,3 +18,5 @@ Here is the command as follows:
 ```
 :(){ :|: &};:
 ```
+
+BAGUS WAS HERE

